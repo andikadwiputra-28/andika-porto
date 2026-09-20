@@ -1,0 +1,1 @@
+Place your certificate images here using the names certificate-1.jpg, certificate-2.jpg, and certificate-3.jpg.
